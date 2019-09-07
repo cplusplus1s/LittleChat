@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/LoginWindow">
+        <file>Resources/down.ico</file>
+        <file>Resources/right.ico</file>
+        <file>Resources/profile.png</file>
+        <file>Resources/add_friend.png</file>
+        <file>Resources/logo.ico</file>
+        <file>Resources/main_background.jpg</file>
+        <file>Resources/homepage_background.jpg</file>
+        <file>Resources/addcontact_background.jpg</file>
+        <file>Resources/emoji.png</file>
+    </qresource>
+    <qresource prefix="/gif">
+        <file>Resources/emoji_0.gif</file>
+        <file>Resources/emoji_1.gif</file>
+        <file>Resources/emoji_2.gif</file>
+        <file>Resources/emoji_3.gif</file>
+        <file>Resources/emoji_4.gif</file>
+        <file>Resources/emoji_5.gif</file>
+        <file>Resources/emoji_6.gif</file>
+        <file>Resources/emoji_7.gif</file>
+        <file>Resources/emoji_8.gif</file>
+    </qresource>
+</RCC>
